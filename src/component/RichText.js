@@ -15,7 +15,7 @@ class RichText extends React.Component {
       <div className='container'>
           <Editor
             initialValue="<p>Initial content</p>"
-            apiKey="g5inqgf9z3os7zv1s4qo5aieynsz1rz1yi0mo5a7l2l17qr5"
+            apiKey="your-api-key-goes-here"
             init={{
             height: 500,
             menubar: false,
