@@ -4,3 +4,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 80%;
+  margin : 50px auto;
+}
